@@ -1,9 +1,9 @@
-Template for the Read the Docs tutorial
+Larmor Instrument Manual
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+This will be the instrument manual for the the Larmor neutron scattering
+instrument at the ISIS neutron and muon source, UK
 
-Read the tutorial here:
+The manual is maintained by the team of Larmor instrument scientists
 
-https://docs.readthedocs.io/en/stable/tutorial/
+https://www.isis.stfc.ac.uk/Pages/Larmor.aspx

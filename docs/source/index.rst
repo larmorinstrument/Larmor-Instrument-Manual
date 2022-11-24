@@ -1,22 +1,31 @@
-Welcome to Lumache's documentation!
-===================================
+Welcome to the Larmor Instrument Manual
+=======================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+A flexible instrument for high throughput SANS, Spin-Echo SANS and the development of 
+Larmor precession techniques.
+
+The manual provides technical details of the instrument layout and capabilities as well
+as instructions on the operation, data reduction and analysis.
+
+The instrument web page and links therin to the ISIS SANS group provide a further resource
+of information so if something is missing (very likely at the moment) please check there
+first before contacting a member of the Larmor team.
+
+`Larmor website  <https://www.isis.stfc.ac.uk/Pages/Larmor.aspx>`
+`ISIS SANS group website  <https://www.isis.stfc.ac.uk/Pages/SANSgroup.aspx>`
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
 
 .. note::
 
-   This project is under active development.
+   This project is brand new and under active development.
 
 Contents
 --------
 
 .. toctree::
 
-   usage
-   api
+   Instrument_Layout 
+   SANS
+   SESANS
