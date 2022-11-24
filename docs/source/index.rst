@@ -11,11 +11,8 @@ The instrument web page and links therin to the ISIS SANS group provide a furthe
 of information so if something is missing (very likely at the moment) please check there
 first before contacting a member of the Larmor team.
 
-`Larmor website  <https://www.isis.stfc.ac.uk/Pages/Larmor.aspx>`
-`ISIS SANS group website  <https://www.isis.stfc.ac.uk/Pages/SANSgroup.aspx>`
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+[Larmor website](https://www.isis.stfc.ac.uk/Pages/Larmor.aspx)<br>
+[ISIS SANS group website](https://www.isis.stfc.ac.uk/Pages/SANSgroup.aspx)
 
 .. note::
 
