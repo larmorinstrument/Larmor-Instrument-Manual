@@ -1,19 +1,4 @@
-site_name: LarmorInstrumentManual
-nav:
-    - Home: index.md
+site_name: Larmor Instrument Manual
+theme:
+  name: readthedocs
 
-theme: 
-    name: readthedocs
-    highlightjs: true
-plugins:
-  - search
-  - mkdocstrings:
-      handlers:
-        # See: https://mkdocstrings.github.io/python/usage/
-        python:
-          options:
-            docstring_style: sphinx
-markdown_extensions:
-  - markdown_include.include:
-      base_path: .
-  - admonition
