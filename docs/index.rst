@@ -1,25 +1,32 @@
-.. include:: ../README.rst
+Larmor Instrument Manual
+========================
 
-Welcome to Lumache's documentation!
-===================================
+*Welcome to the Larmor instrument manual*
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Introduction
+------------
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Larmor is a neutron scattering instrument constructed at the `ISIS neutron and muon source
+<https://www.isis.stfc.ac.uk/Pages/home.aspx>`_ . Larmor was constructed as a time-of-flight Small Angle
+Neutrons Scattering (SANS) instrument with the capability to perform and develop a variety of Larmor
+precession measurements.
 
 .. note::
 
-   This project is under active development.
+   This project is new and is being developed by the Larmor scientist team.
 
 Contents
 --------
 
 .. toctree::
-
-   Home <self>
-   usage
-   api
+  Home <self>
+  Instrument Layout
+  SANS
+  SESANS
+  Sample environment equipment
+  Before your experiment
+  Running the instrument
+  Looking at data
+  Analysis data
+  Non-standard measurements
+  Trouble shooting
