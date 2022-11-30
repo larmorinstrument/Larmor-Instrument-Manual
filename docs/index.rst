@@ -17,16 +17,3 @@ precession measurements.
 
 Contents
 --------
-
-.. toctree::
-  Home <self>
-  Instrument Layout
-  SANS
-  SESANS
-  Sample environment equipment
-  Before your experiment
-  Running the instrument
-  Looking at data
-  Analysis data
-  Non-standard measurements
-  Trouble shooting
