@@ -17,3 +17,16 @@ precession measurements.
 
 Contents
 --------
+
+.. toctree::
+  Home <self>
+  Instrument Layout <InstrumentLayout>
+  SANS
+  SESANS
+  Sample environment equipment <SEEquipment>
+  Before your experiment <BeforeExp>
+  Running the instrument <RunningExp>
+  Looking at data <LookingAtData>
+  Analysis of data <AnalysisOfData>
+  Non-standard measurements <NSMeasurements>
+  Trouble shooting <TroubleShooting>
